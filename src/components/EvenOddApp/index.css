@@ -1,0 +1,32 @@
+/* Write your CSS here */
+body {
+  background-color: linear-gradient(to bottom(#ff6e7f, #bfe9ff));
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.head1 {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 40px;
+  align-items: center;
+}
+.para {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 40px;
+  align-items: center;
+}
+.button {
+  color: #1e293b;
+  background-color: white;
+  border: #1e293b solid 2px;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+}
+.note {
+  color: #1e293b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
